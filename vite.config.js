@@ -6,7 +6,7 @@ export default defineConfig({
 
   server: {
     host: '0.0.0.0',
-    allowedHosts: ['chess-n92t.onrender.com']
+    allowedHosts: true
   },
 
   preview: {
